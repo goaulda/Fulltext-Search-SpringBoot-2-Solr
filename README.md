@@ -1,1 +1,1 @@
-# Fulltext-Search-SpringBoot-2-Solr
+# Fulltext-Search-SpringBoot-2-Hibernate
